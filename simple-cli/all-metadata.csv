@@ -1,0 +1,4 @@
+pml_id,platemap_type,dirpath,parental_line,plate_id,imaging_round_id
+PML0227,custom,/home/image-data/raw-pipeline-microscopy/PML0227,,,
+PML0234,first-half,/home/image-data/raw-pipeline-microscopy/PML0234,czML0383,P0014,R02
+PML0231,custom,/home/image-data/raw-pipeline-microscopy/PML0231,,,
